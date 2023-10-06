@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/bibiffff.github.io/person/static/js/main.5ad363e7.js",
-    "index.html": "/bibiffff.github.io/person/index.html",
-    "main.5ad363e7.js.map": "/bibiffff.github.io/person/static/js/main.5ad363e7.js.map"
+    "main.js": "/person/static/js/main.5ad363e7.js",
+    "index.html": "/person/index.html",
+    "main.5ad363e7.js.map": "/person/static/js/main.5ad363e7.js.map"
   },
   "entrypoints": [
     "static/js/main.5ad363e7.js"
